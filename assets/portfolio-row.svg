@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-labelledby="title desc"><title id="title">Portfolio</title><desc id="desc">My personal corner of the web. HTML / CSS / JavaScript</desc>
+<rect x=".5" y=".5" width="999" height="115" rx="12" fill="#0d1117" stroke="#2d2731"/>
+<text x="26" y="43" fill="#d38eab" font-family="DejaVu Sans Mono,monospace" font-size="13">03</text>
+<text x="75" y="43" fill="#eee5ed" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="500">Portfolio</text>
+<text x="76" y="78" fill="#948a99" font-family="DejaVu Sans,Arial,sans-serif" font-size="14">My personal corner of the web</text>
+<text x="927" y="76" text-anchor="end" fill="#a99aa9" font-family="DejaVu Sans Mono,monospace" font-size="12">HTML / CSS / JavaScript</text>
+<path d="M938 29 H954 V45 M954 29 L936 47" fill="none" stroke="#d38eab" stroke-width="1.4"/>
+</svg>
