@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">sannder</title><desc id="desc">Building web apps and Python bots. Minimal black and pink profile banner.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#f08bb1" stop-opacity=".09"/><stop offset="1" stop-color="#f08bb1" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="370" rx="18" fill="#0b0b10"/>
+<rect x=".5" y=".5" width="1199" height="369" rx="18" fill="none" stroke="#24232c"/>
+<circle cx="986" cy="184" r="180" fill="url(#glow)"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="2"><circle cx="54" cy="49" r="4" fill="#ed98b7"/><text x="70" y="54" fill="#a5a1ae">SANNDER01 / PERSONAL SPACE</text><text x="1091" y="54" fill="#68636f">01—</text></g>
+<path d="M50 81 H1150" stroke="#24232c"/>
+<text x="48" y="225" font-family="DejaVu Sans,Arial,sans-serif" font-size="105" font-weight="700" letter-spacing="-6" fill="#f2eff5">sannder<tspan fill="#ed98b7">.</tspan></text>
+<text x="54" y="271" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#aaa4b2">Building web apps &amp; Python bots.</text>
+<g transform="translate(978 199)" fill="none"><circle r="85" stroke="#39313d"/><ellipse rx="126" ry="37" transform="rotate(-34)" stroke="#ed98b7" stroke-opacity=".7"/><ellipse rx="126" ry="37" transform="rotate(34)" stroke="#4d3b4b"/><circle r="4" fill="#ed98b7" stroke="none"/><circle cx="98" cy="-64" r="5" fill="#ed98b7" stroke="none"/></g>
+<g font-family="DejaVu Sans Mono,monospace" font-size="11" letter-spacing="2" fill="#68636f"><text x="54" y="333">WEB / TOOLS / EXPERIMENTS</text><text x="997" y="333">KEEP CREATING</text></g>
+</svg>
