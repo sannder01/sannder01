@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-labelledby="title desc">
+<title id="title">Grade</title><desc id="desc">Films, anime, ratings &amp; reviews. JAVASCRIPT / POSTGRESQL</desc>
+<rect x=".5" y=".5" width="579" height="229" rx="14" fill="#0b0b10" stroke="#2b2631"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.5"><text x="30" y="37" fill="#ed98b7">02</text><text x="65" y="37" fill="#77707e">/ PROJECT</text></g>
+<path d="M532 31 H548 V47 M548 31 L529 50" fill="none" stroke="#ed98b7" stroke-width="1.5"/>
+<text x="30" y="95" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="600" fill="#f2eff5">Grade</text>
+<text x="31" y="128" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#a59eaf">Films, anime, ratings &amp; reviews.</text>
+<path d="M30 157 H550" stroke="#25212c"/>
+<circle cx="34" cy="192" r="3" fill="#ed98b7"/>
+<text x="49" y="196" font-family="DejaVu Sans Mono,monospace" font-size="11" letter-spacing=".8" fill="#a59eaf">JAVASCRIPT / POSTGRESQL</text>
+</svg>
